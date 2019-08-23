@@ -1,10 +1,13 @@
-docker起動
++ docker起動
+
 $ docker-compose up -d
 
-phpコンテナに入ります
++ phpコンテナに入ります
+
 $ docker-compose exec php bash
 
-Laravelプロジェクト作成
++ Laravelプロジェクト作成
+
 $ laravel new
 
 Based on
